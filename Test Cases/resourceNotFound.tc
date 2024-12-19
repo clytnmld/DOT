@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>resourceNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d09f9f75-b38e-4f1e-b2ef-51fb7eb1f469</testCaseGuid>
+</TestCaseEntity>
